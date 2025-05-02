@@ -6,6 +6,9 @@ You'll find red circles when looking at screenshots. Snipers periodically cycle 
 
 Please note that "solo" was done through a multiplayer lobby, not by selecting "Single Player -> Solo Survival" (which has different spawns that won't be covered here).
 
+
+<img width="826" alt="Sniper" src="https://github.com/user-attachments/assets/4dcb65e0-0e39-4b3c-bc19-07365e67b126" />
+
 ## Table of Contents
 
 * [Dockyard](#dockyard)
